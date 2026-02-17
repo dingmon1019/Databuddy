@@ -23,75 +23,64 @@
 
 </div>
 
-A comprehensive analytics and data management platform built with Next.js, TypeScript, and modern web technologies. Databuddy provides real-time analytics, user tracking, and data visualization capabilities for web applications.
+Databuddy is an open-source analytics and data platform for modern web apps. It provides privacy-first tracking, real-time insights, and a modular monorepo architecture.
 
 ## 🌟 Features
 
 - 📊 Real-time analytics dashboard
 - 👥 User behavior tracking
-- 📈 Advanced data visualization // Soon
 - 🔒 Secure authentication
-- 📱 Responsive design
+- 📱 Responsive UI
 - 🌐 Multi-tenant support
-- 🔄 Real-time updates // Soon
-- 📊 Custom metrics // Soon
-- 🎯 Goal tracking
-- 📈 Conversion analytics
+- 🎯 Goal and funnel tracking
 - 🔍 Custom event tracking
-- 📊 Funnel analysis
-- 📈 Cohort analysis // Soon
-- 🔄 A/B testing // Soon
-- 📈 Export capabilities // Soon
-- 🔒 GDPR compliance
 - 🔐 Data encryption
-- 📊 API access
+- 📚 Rich API + docs
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Bun `1.3.4+`
+- Node.js `20+`
+
+### Install and run
+
+```bash
+bun install
+bun run setup
+bun run dev
+```
+
+Then open the docs at <https://www.databuddy.cc/docs/getting-started> for full environment setup.
 
 ## 📚 Table of Contents
 
-1. **How do I get started?**
-   Follow the [Getting Started](https://www.databuddy.cc/docs/getting-started) guide.
+- [Quick Start](#-quick-start)
 - [Contributing](#-contributing)
 - [Security](#-security)
 - [FAQ](#-faq)
 - [Support](#-support)
 - [License](#-license)
 
-### Prerequisites
-
-- Bun 1.3.4+
-- Node.js 20+
-
 ## 🤝 Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## 🔒 Security
 
-See [SECURITY.md](SECURITY.md) for reporting vulnerabilities.
+See [SECURITY.md](SECURITY.md) for vulnerability reporting instructions.
 
 ## ❓ FAQ
 
-### General
+### What is Databuddy?
+Databuddy is a comprehensive analytics and data management platform.
 
-1. **What is Databuddy?**
-   Databuddy is a comprehensive analytics and data management platform.
+### How do I get started?
+Follow the [Getting Started](https://www.databuddy.cc/docs/getting-started) guide.
 
-2. **How do I get started?**
-   Follow the [Getting Started](https://www.databuddy.cc/docs/getting-started) guide.
-
-3. **Is it free?**
-   Check our [pricing page](https://databuddy.cc/pricing).
-
-### Technical
-
-1. **What are the system requirements?**
-   See [Prerequisites](#prerequisites).
-
-2. **How do I deploy?**
-   See the deployment documentation in our [docs](https://databuddy.cc/docs).
-
-3. **How do I contribute?**
-   See [Contributing](#contributing).
+### Is it free?
+Check our [pricing page](https://databuddy.cc/pricing).
 
 ## 💬 Support
 
