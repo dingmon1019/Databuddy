@@ -66,7 +66,7 @@ function CountryRow({
 
 	return (
 		<button
-			className="flex w-full items-center gap-2 rounded-none p-2 text-left hover:bg-accent sm:gap-2.5"
+			className="flex w-full items-center gap-2 rounded-none p-2 text-left hover:bg-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/50 sm:gap-2.5"
 			onClick={() =>
 				onCountrySelect(
 					country.country_code?.toUpperCase() || country.country.toUpperCase()
